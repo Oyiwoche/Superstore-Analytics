@@ -59,6 +59,6 @@ Customer Segmentation
 Champions are only 64 customers but average $9,480 in spend — nearly 3× any other group
 At Risk customers last purchased 559 days ago on average — a re-engagement campaign is warranted
 Casual Customers are the largest group (335) and represent the biggest growth opportunity
-tebook
+
 
 
