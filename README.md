@@ -61,5 +61,4 @@ At Risk customers last purchased 559 days ago on average — a re-engagement cam
 Casual Customers are the largest group (335) and represent the biggest growth opportunity
 tebook
 
-bash   jupyter notebook Superstore_Analytics.ipynb
-Run all cells top to bottom via Kernel → Restart & Run All
+
