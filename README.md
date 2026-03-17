@@ -6,13 +6,21 @@ An end-to-end Python data analysis project exploring sales performance, profitab
 
 📌 Project Overview
 This project answers three core business questions using real retail transaction data:
-PhaseQuestionKey Techniques1 — Sales AnalysisWhere is the money coming from?groupby, pivot tables, time series resampling2 — Profitability ModellingAre discounts hurting the business?Feature engineering, pd.cut binning, scatter plots3 — Customer SegmentationWho are the most valuable customers?RFM analysis, StandardScaler, K-Means clustering
+
+Sales Analysis: Where is the money coming from?groupby, pivot tables, time series resampling2 
+
+Profitability Modelling: Are discounts hurting the business?Feature engineering, pd.cut binning, scatter plots3 
+
+Customer Segmentation: Who are the most valuable customers?RFM analysis, StandardScaler, K-Means clustering
 
 📁 Repository Structure
 
 superstore-analytics/
+
 Superstore_Analytics.ipynb     # Main notebook — all 3 phases
+
 Sample - Superstore.csv        # Dataset (place in same folder as notebook)
+
 README.md
 
 📊 Dataset
