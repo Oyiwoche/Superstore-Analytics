@@ -9,6 +9,7 @@ This project answers three core business questions using real retail transaction
 PhaseQuestionKey Techniques1 — Sales AnalysisWhere is the money coming from?groupby, pivot tables, time series resampling2 — Profitability ModellingAre discounts hurting the business?Feature engineering, pd.cut binning, scatter plots3 — Customer SegmentationWho are the most valuable customers?RFM analysis, StandardScaler, K-Means clustering
 
 📁 Repository Structure
+
 superstore-analytics/
 │
 ├── Superstore_Analytics.ipynb     # Main notebook — all 3 phases
