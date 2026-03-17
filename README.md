@@ -11,10 +11,9 @@ PhaseQuestionKey Techniques1 — Sales AnalysisWhere is the money coming from?gr
 📁 Repository Structure
 
 superstore-analytics/
-│
-├── Superstore_Analytics.ipynb     # Main notebook — all 3 phases
-├── Sample - Superstore.csv        # Dataset (place in same folder as notebook)
-└── README.md
+Superstore_Analytics.ipynb     # Main notebook — all 3 phases
+Sample - Superstore.csv        # Dataset (place in same folder as notebook)
+README.md
 
 📊 Dataset
 Source: Sample Superstore (Tableau public dataset)
