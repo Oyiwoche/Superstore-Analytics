@@ -55,7 +55,6 @@ superstore-analytics/
 │
 ├── Superstore_Analytics.ipynb   ← Main notebook — all 3 phases, fully documented
 ├── Sample - Superstore.csv      ← Raw dataset (9,994 rows × 21 columns)
-├── customer_rfm_segments.csv    ← Output: every customer scored and labelled
 └── README.md
 ```
 
@@ -118,15 +117,6 @@ jupyter notebook Superstore_Analytics.ipynb
 > Place `Sample - Superstore.csv` in the same folder as the notebook before running.  
 > Use `Kernel → Restart & Run All` to execute all cells cleanly from top to bottom.
 
----
 
-## About
-
-Built by **Kings (Oyiwoche)** as part of a personal data analytics portfolio.  
-The goal was not just to run code — but to answer real business questions with evidence.
-
-[LinkedIn](#) · [GitHub](https://github.com/Oyiwoche)
-
----
 
 *If this project was useful or interesting, a ⭐ on the repo goes a long way.*
